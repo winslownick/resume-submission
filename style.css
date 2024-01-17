@@ -1,0 +1,25 @@
+.header { /* class selector */
+    padding-left: 40%;
+    background-color: turquoise;
+    }
+
+    #paraimg { /* id selector */
+        padding-left: 8%;
+        
+    }
+
+    #para1 { /* id selector */
+    color: steelblue;
+}
+
+.company1 {
+    background-color: red
+}
+
+.company2 {
+    background-color: white;
+}
+
+.company3 {
+    background-color: blue;
+}
